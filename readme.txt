@@ -3,7 +3,7 @@ select Post and the url https://bgwcik43c8.execute-api.eu-central-1.amazonaws.co
 go to Body >> raw >> json
 pass the code
   {
-    "username": "meir",
+    "username": "name",
     "email": "1@gmail.com",
     "contact": "123456"
   }
